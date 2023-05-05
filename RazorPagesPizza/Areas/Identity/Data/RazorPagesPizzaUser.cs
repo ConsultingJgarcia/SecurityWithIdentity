@@ -7,7 +7,6 @@ using Microsoft.AspNetCore.Identity;
 
 namespace RazorPagesPizza.Areas.Identity.Data;
 
-// Add profile data for application users by adding properties to the RazorPagesPizzaUser class
 public class RazorPagesPizzaUser : IdentityUser
 {
     [Required]
